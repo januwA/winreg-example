@@ -10,5 +10,6 @@ add_executable(create create.cpp)
 add_executable(save save.cpp)
 add_executable(restore restore.cpp)
 add_executable(delete delete.cpp)
+add_executable(deep deep.cpp)
 
 
